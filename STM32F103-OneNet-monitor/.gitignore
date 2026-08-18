@@ -1,0 +1,31 @@
+# Local secrets
+User/config.h
+
+# Keil MDK build output
+Project/Objects/
+Project/Listings/
+Project/DebugConfig/
+*.axf
+*.hex
+*.bin
+*.map
+*.o
+*.d
+*.crf
+*.lst
+*.lnp
+*.sct
+*.htm
+*.iex
+
+# Keil user and GUI settings
+*.uvoptx
+*.uvguix.*
+*.scvd
+
+# Editor and operating-system files
+.vscode/
+.idea/
+*.code-workspace
+Thumbs.db
+Desktop.ini
