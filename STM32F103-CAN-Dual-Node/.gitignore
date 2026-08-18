@@ -1,0 +1,22 @@
+# Keil MDK generated build output
+Project/Objects/
+Project/Listings/
+Project/*.scvd
+Project/*.sct
+
+# Per-user IDE and debugger state
+Project/*.uvoptx
+Project/*.uvguix*
+Project/DebugConfig/
+
+# Common embedded build output
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.map
+*.lnp
+*.dep
+*.lst
+*.build_log.htm
